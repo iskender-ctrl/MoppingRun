@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - camur
+  - mop
+  - blaster
+  - Fire
+  - trigger
+  - blade
+  - Cube
+  - Cylinder
+  - kir
+  - saw
+  - right
+  - left
+  - finish
+  - good
+  - nice
+  - well
+  - x1
+  - x2
+  - x3
+  - x4
+  - x5
+  - x6
+  - x7
+  - x8
+  - x9
+  - x10
+  - x11
+  - x12
+  - trail
+  - start
+  - good1
+  - nice1
+  - awasome1
+  - plane
+  - rightGrow
+  - leftGrow
+  - objectRight
+  - objectLeft
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - blaster
+  - Kesilebilir
+  - postProcess
+  - Trigger
+  - plusRight
+  - plusLeft
+  - blasterLeft
+  - blasterRight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
