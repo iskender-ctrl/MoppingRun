@@ -6,7 +6,7 @@ public class Move : MonoBehaviour
 {
 
     public GameObject play;
-    public static float speed = 12f;
+    public static float speed = 13f;
     public Rigidbody player;
     void Awake()
     {

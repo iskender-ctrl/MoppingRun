@@ -21464,6 +21464,12 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1445929790739754533}
   m_PrefabAsset: {fileID: 0}
+--- !u!54 &807399239 stripped
+Rigidbody:
+  m_CorrespondingSourceObject: {fileID: 1445929791007834479, guid: d7ed8381b537d3d469239dd8b147861e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1445929790739754533}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &807399240 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1445929791007834477, guid: d7ed8381b537d3d469239dd8b147861e,
@@ -25722,7 +25728,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-9536
+  m_Name: pb_Mesh-3200
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59202,6 +59208,11 @@ PrefabInstance:
       propertyPath: awsome
       value: 
       objectReference: {fileID: 1945091087}
+    - target: {fileID: 1445929791007834466, guid: d7ed8381b537d3d469239dd8b147861e,
+        type: 3}
+      propertyPath: play
+      value: 
+      objectReference: {fileID: 807399239}
     - target: {fileID: 1445929791007834467, guid: d7ed8381b537d3d469239dd8b147861e,
         type: 3}
       propertyPath: m_Name
